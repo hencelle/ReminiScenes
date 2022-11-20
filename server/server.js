@@ -2,7 +2,7 @@ const pgtools = require("pgtools");
 const config = {
   user: "postgres",
   host: "localhost",
-  password: "1557",
+  password: "",
   port: 5432
 };
 
